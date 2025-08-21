@@ -48,3 +48,4 @@ O desafio agora é **recuperar a autonomia, a confiança e a soberania individua
 
 👉 See [DONATE.md](DONATE.md)
 
+

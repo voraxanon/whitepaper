@@ -4,7 +4,7 @@ Open-source tools for Bitcoin sovereignty. Your support keeps this project free 
 
 ## ⚡ Bitcoin (on-chain)
 **Address (bech32):**
-\$BTC\
+$BTC
 
 ![BTC QR](donation-qr.png)
 
